@@ -1,6 +1,6 @@
-### Hi there! 👋  I'm Federico.
+### Hi there! 👋 I'm Federico.
 
-I'm a software developer with a keen interest for autonomous systems and robotics.
+I'm a software developer with a keen interest in autonomous systems and robotics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning sensor fusion.
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+You can check my main page at federicomariamassari.github.io
 -->
