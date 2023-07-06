@@ -1,4 +1,4 @@
-### Hi there! I'm Federico. 👋
+### Hi there! 👋 I'm Federico.
 
 <!--
 **federicomariamassari/federicomariamassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
