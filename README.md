@@ -2,7 +2,7 @@
 
 I'm a software developer with a keen interest in autonomous systems and robotics.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on LiDAR data.
 - 🌱 I’m currently learning sensor fusion.
 
 <!--
