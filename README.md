@@ -1,4 +1,9 @@
-### Hi there! 👋 I'm Federico.
+### Hi there! 👋  I'm Federico.
+
+I'm a software developer with a keen interest for autonomous systems and robotics.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning sensor fusion.
 
 <!--
 **federicomariamassari/federicomariamassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
