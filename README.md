@@ -4,6 +4,7 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 
 - 🔭 I’m currently working on LiDAR obstacle detection using Point Cloud Library.
 - 🌱 I’m currently learning sensor fusion.
+- 👯 I’m looking to collaborate on 6502 assembly projects.
 
 <!--
 **federicomariamassari/federicomariamassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
