@@ -1,25 +1,3 @@
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-
-<body>
-
 ### Hi there! 👋 I'm Federico.
 
 I'm a software developer with a keen interest in autonomous systems and robotics.
@@ -30,19 +8,11 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 
 My latest projects:
 
-<div class="row">
-  <div class="column">
-    <img src="img/udacity-sfend-p1.png" alt="udacity-sfend-p1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img/udacity-sfend-p1.png" alt="udacity-rsend-p5" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img/udacity-sfend-p1.png" alt="udacity-rsend-p4" style="width:100%">
-  </div>
-</div>
-
-</body>
+<p float="left">
+  <img src="img/udacity-sfend-p1.png" width="32%" />
+  <img src="img/udacity-sfend-p1.png" width="32%" /> 
+  <img src="img/udacity-sfend-p1.png" width="32%" />
+</p>
 
 <!--
 **federicomariamassari/federicomariamassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
