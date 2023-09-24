@@ -9,9 +9,9 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 My latest projects:
 
 <p float="left">
-  <img src="img/udacity-sfend-p1.png" width="32%" />
-  <img src="img/udacity-sfend-p1.png" width="32%" /> 
-  <img src="img/udacity-sfend-p1.png" width="32%" />
+  <img src="img/udacity-sfend-p1.png" width="33%" />
+  <img src="img/udacity-rsend-p5.png" width="33%" /> 
+  <img src="img/udacity-sfend-p1.png" width="33%" />
 </p>
 
 <!--
