@@ -13,6 +13,9 @@ My latest projects:
   <a href="https://github.com/federicomariamassari/udacity-rsend/blob/main/projects/p5/p5-home-service-robot.md" target="_blank"><img src="img/udacity-rsend-p5.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-rsend/blob/main/projects/p4/p4-map-my-world.md" target="_blank"><img src="img/udacity-rsend-p4.png" width="32%" /></a>
 </p>
+<p float="left">
+  <a href="https://github.com/federicomariamassari/udacity-rsend/blob/main/projects/p3/p3-where-am-i.md" target="_blank"><img src="img/udacity-rsend-p3.png" width="32%" /></a>
+</p>
 
 <!--
 **federicomariamassari/federicomariamassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
