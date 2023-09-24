@@ -15,6 +15,7 @@ My latest projects:
 </p>
 <p float="left">
   <a href="https://github.com/federicomariamassari/udacity-rsend/blob/main/projects/p3/p3-where-am-i.md" target="_blank"><img src="img/udacity-rsend-p3.png" width="32%" /></a>
+  <a href="https://github.com/federicomariamassari/udacity-rsend/blob/main/projects/p2/p2-go-chase-it.md" target="_blank"><img src="img/udacity-rsend-p2.png" width="32%" /></a>
 </p>
 
 <!--
