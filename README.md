@@ -6,7 +6,7 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 - 🌱 I’m currently learning sensor fusion.
 - 👯 I’m looking to collaborate on 6502 assembly projects.
 
-My latest projects:
+My latest projects (stack):
 
 <p float="left">
   <a href="https://github.com/federicomariamassari/udacity-sfend/blob/main/projects/p2/p2-camera-based-2d-feature-tracking.md" target="_blank"><img src="img/udacity-sfend-p2.png" width="32%" /></a>
