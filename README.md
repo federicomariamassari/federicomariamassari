@@ -2,7 +2,7 @@
 
 I'm a software developer with a keen interest in autonomous systems and robotics.
 
-- 🔭 I’m currently working on tracking an object in 3D space fusing LiDAR and camera data.
+- 🔭 I’m currently working on obstacle detection using radar technology.
 - 🌱 I’m currently learning sensor fusion.
 - 👯 I’m looking to collaborate on 6502 assembly projects.
 
