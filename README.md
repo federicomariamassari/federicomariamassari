@@ -6,6 +6,12 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 - 🌱 I’m currently learning sensor fusion.
 - 👯 I’m looking to collaborate on 6502 assembly projects.
 
+My latest certifications:
+
+<p float="left">
+  <a href="https://github.com/federicomariamassari/udacity-rsend" target="_blank"><img src="img/certificate-of-completion-rsend.png" width="32%" /></a>
+</p>
+
 My latest projects (stack):
 
 <p float="left">
