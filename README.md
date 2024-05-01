@@ -9,6 +9,7 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 My latest certifications:
 
 <p float="left">
+  <a href="https://github.com/federicomariamassari/udacity-sfend" target="_blank"><img src="img/certificate-of-completion-sfend.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-rsend" target="_blank"><img src="img/certificate-of-completion-rsend.png" width="32%" /></a>
 </p>
 
