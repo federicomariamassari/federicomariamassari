@@ -16,6 +16,7 @@ My latest certifications:
 My latest projects (stack):
 
 <p float="left">
+  <a href="https://github.com/federicomariamassari/udacity-sfend/blob/main/projects/p5/p5-unscented-kalman-filter-highway-project.md" target="_blank"><img src="img/udacity-sfend-p5.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-sfend/blob/main/projects/p4/p4-radar-target-generation-and-detection.md" target="_blank"><img src="img/udacity-sfend-p4.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-sfend/blob/main/projects/p3/p3-track-an-object-in-3d-space.md" target="_blank"><img src="img/udacity-sfend-p3.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-sfend/blob/main/projects/p2/p2-camera-based-2d-feature-tracking.md" target="_blank"><img src="img/udacity-sfend-p2.png" width="32%" /></a>
