@@ -2,13 +2,14 @@
 
 I'm a software developer with a keen interest in autonomous systems and robotics, and everything embedded.
 
-- 🔭 I’m currently working on fusing LiDAR and radar data using Unscented Kálmán Filter.
-- 🌱 I’m currently learning embedded systems fundamentals.
+- 🔭 I’m currently working towards the RHCSA 9 certification.
+- 🌱 I’m currently learning Linux and C.
 - 👯 I’m looking to collaborate on 6502 assembly projects.
 
 My latest certifications:
 
 <p float="left">
+  <a href="https://github.com/federicomariamassari/udacity-esfnd" target="_blank"><img src="img/certificate-of-completion-esfnd.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-sfend" target="_blank"><img src="img/certificate-of-completion-sfend.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-rsend" target="_blank"><img src="img/certificate-of-completion-rsend.png" width="32%" /></a>
 </p>
