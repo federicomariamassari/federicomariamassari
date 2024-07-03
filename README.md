@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Federico.
 
-I'm a software developer with a keen interest in autonomous systems and robotics, and everything embedded.
+I'm a software developer with a keen interest in autonomous systems and robotics, and electronics in general.
 
 - 🔭 I’m currently working towards the RHCSA 9 certification.
 - 🌱 I’m currently learning Linux and C.
