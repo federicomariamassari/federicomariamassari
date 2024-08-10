@@ -8,6 +8,10 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 
 My latest certifications:
 
+- [**Embedded Systems Fundamentals**](https://github.com/federicomariamassari/udacity-esfnd)
+- [**Sensor Fusion (all projects)**](https://github.com/federicomariamassari/udacity-sfend)
+- [**Robotics Software Engineer (all projects)**](https://github.com/federicomariamassari/udacity-rsend)
+
 <p float="left">
   <a href="https://github.com/federicomariamassari/udacity-esfnd" target="_blank"><img src="img/certificate-of-completion-esfnd.png" width="32%" /></a>
   <a href="https://github.com/federicomariamassari/udacity-sfend" target="_blank"><img src="img/certificate-of-completion-sfend.png" width="32%" /></a>
