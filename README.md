@@ -6,17 +6,7 @@ I'm a software developer with a keen interest in autonomous systems and robotics
 - 🌱 I’m currently learning Linux and C.
 - 👯 I’m looking to collaborate on 6502 assembly projects.
 
-My latest certifications:
-
-- [**Embedded Systems Fundamentals**](https://github.com/federicomariamassari/udacity-esfnd)
-- [**Sensor Fusion (all projects)**](https://github.com/federicomariamassari/udacity-sfend)
-- [**Robotics Software Engineer (all projects)**](https://github.com/federicomariamassari/udacity-rsend)
-
-<p float="left">
-  <a href="https://github.com/federicomariamassari/udacity-esfnd" target="_blank"><img src="img/certificate-of-completion-esfnd.png" width="32%" /></a>
-  <a href="https://github.com/federicomariamassari/udacity-sfend" target="_blank"><img src="img/certificate-of-completion-sfend.png" width="32%" /></a>
-  <a href="https://github.com/federicomariamassari/udacity-rsend" target="_blank"><img src="img/certificate-of-completion-rsend.png" width="32%" /></a>
-</p>
+My latest certifications (click on a certificate for the full list of projects):
 
 My latest projects (stack):
 
